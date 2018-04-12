@@ -62,7 +62,7 @@ msgstr "de"
 #: humanize/number.py:28
 msgctxt "8"
 msgid "th"
-msgstr "de"
+msgstr "ste"
 
 #: humanize/number.py:29
 msgctxt "9"
@@ -184,7 +184,7 @@ msgstr "een uur"
 msgid "%d hour"
 msgid_plural "%d hours"
 msgstr[0] "%d uur"
-msgstr[1] "%d uren"
+msgstr[1] "%d uur"
 
 #: humanize/time.py:81
 msgid "a day"
